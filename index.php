@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,9 +24,3 @@
     </div>
 </body>
 </html>
-=======
-test
-
-<?php
-  echo test van nick
->>>>>>> Stashed changes
