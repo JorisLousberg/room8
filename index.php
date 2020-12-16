@@ -14,7 +14,7 @@
 
     <div class="middle">
         <div class="middle_left">border1</div>
-        <div class="middle_main">main body</div>
+        <div class="middle_main">main body <div class="groot"></div></div>
         <div class="middle_right">border2</div>
     </div>
     <div class="bottom">

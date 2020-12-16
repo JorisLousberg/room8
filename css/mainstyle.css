@@ -25,31 +25,36 @@ body{
 }
 /*middle layout*/
 .middle{
-    height: 400px /*fit-content*/;
+    height:  400px/*fit-content */;
     width:  100%;
     float: left;
+    display: flex;
+    background-color: green;
     
 }
+
 .middle_left{
     height: 100%;
     width: 10%;
     float: left;
     background-color: blue;
-    position: relative;
+    color: transparent;/*the text keeps the border from hiding under top div*/
+    
 }
 .middle_main{
     height: 100%;
     width: 80%;
     float: left;
     background-color: rebeccapurple;
-    position: relative;
+    
 }
 .middle_right{
     height: 100%;
     width: 10%;
     float: left;
     background-color: blue;
-    position: relative;
+    color: transparent;/*the text keeps the border from hiding under top div*/
+    
 }
 /*lower layout*/
 .bottom{
