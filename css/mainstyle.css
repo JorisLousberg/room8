@@ -8,20 +8,23 @@ body{
     height: 50px;
     width: 100%;
     float: left;
-    background-color: red;
+    background-color: rgb(229, 106, 84);
+    vista kleuren:
+oranje: #E56A54
+groen: #00555C
 
 }
 .upper_left{
     height: 100%;
     width: /*fit-content*/20%;
     float: left;
-    background-color: orange;
+    background-color: transparent;
 }
 .upper_right{
     height: 100%;
     width: /*fit-content*/20%;
     float: right;
-    background-color: orange;
+    background-color: transparent;
 }
 /*middle layout*/
 .middle{
@@ -29,7 +32,7 @@ body{
     width:  100%;
     float: left;
     display: flex;
-    background-color: green;
+    background-color: rgb(0, 85, 92);
     
 }
 
@@ -37,7 +40,7 @@ body{
     height: 100%;
     width: 10%;
     float: left;
-    background-color: blue;
+    background-color: transparent;
     color: transparent;/*the text keeps the border from hiding under top div*/
     
 }
@@ -45,14 +48,14 @@ body{
     height: 100%;
     width: 80%;
     float: left;
-    background-color: rebeccapurple;
+    background-color: transparent;
     
 }
 .middle_right{
     height: 100%;
     width: 10%;
     float: left;
-    background-color: blue;
+    background-color: transparent;
     color: transparent;/*the text keeps the border from hiding under top div*/
     
 }
@@ -61,26 +64,28 @@ body{
     height: 50px ;
     width:  100%;
     float: left;
+    border-top:solid 5px rgb(229, 106, 84);
+    background-color:rgb(0, 85, 92);
     
 }
 .lower_left{
     height: 100%;
     width: 30%;
     float: left;
-    background-color: red;
+    background-color: transparent;
     position: relative;
 }
 .lower_middle{
     height: 100%;
     width: 40%;
     float: left;
-    background-color: orange;
+    background-color: transparent;
     position: relative;
 }
 .lower_right{
     height: 100%;
     width: 30%;
     float: left;
-    background-color: red;
+    background-color: transparent;
     position: relative;
 }
