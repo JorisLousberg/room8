@@ -1,3 +1,9 @@
+/*
+vista kleuren:
+oranje: #E56A54
+groen: #00555C
+*/
+
 /*body tag settings*/
 body{
     margin: 0%;
@@ -9,9 +15,7 @@ body{
     width: 100%;
     float: left;
     background-color: rgb(229, 106, 84);
-    vista kleuren:
-oranje: #E56A54
-groen: #00555C
+
 
 }
 .upper_left{
