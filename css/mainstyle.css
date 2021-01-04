@@ -11,19 +11,62 @@ body{
 
 /*top layout*/
 .top{
-    height: 50px;
+    height: 60px;
     width: 100%;
     float: left;
-    background-color: rgb(229, 106, 84);
-
+    background-color:rgb(0, 85, 92);
 
 }
+/*menu section settings*/
 .upper_left{
     height: 100%;
-    width: /*fit-content*/20%;
+    width: /*fit-content*/45%;
     float: left;
     background-color: transparent;
+    text-decoration: none;
+    opacity: 100%;
+    padding-top: 10px;
+    display: flexbox;
+    flex-direction: row;
+    text-align: center;
 }
+
+
+.NAVcontainer{
+    float: left;
+}
+.menuknop {
+    background-color: transparent;
+    border:solid transparent;
+    font-size: 120%;
+    text-align: center;
+    margin: 5px ;
+    padding: 5px;
+    line-height: 28px;
+    width: 45px;   
+    }
+    
+    .menuknop :hover { 
+        
+        
+    }
+    
+    .menuknopp:hover {
+    background:rgb(229, 106, 84) ;
+    padding: 2px;
+    border-radius: 5%;
+    }
+    
+    .menuknopp { 
+        text-decoration: none;
+        color: white;
+    }
+    
+    div.menuknop {display: inline;
+                margin: 0px;       
+    }
+
+    /*Translate section settings*/
 .upper_right{
     height: 100%;
     width: /*fit-content*/20%;
@@ -36,7 +79,7 @@ body{
     width:  100%;
     float: left;
     display: flex;
-    background-color: rgb(0, 85, 92);
+    background-color: rgb(229, 106, 84);
     
 }
 
@@ -68,7 +111,7 @@ body{
     height: 50px ;
     width:  100%;
     float: left;
-    border-top:solid 5px rgb(229, 106, 84);
+
     background-color:rgb(0, 85, 92);
     
 }
