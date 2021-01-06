@@ -1,0 +1,42 @@
+
+.aboutus{
+    width: 100%;
+    height: fit-content;
+    background: transparent;
+}
+.map{
+    width: 100%;
+    height: fit-content;
+    padding-bottom: 5%;
+    padding-top:    5%;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 120%;
+}
+.mapwrap{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
+
+.times{
+    width: 100%;
+    height: fit-content;
+    background: yellow;
+}
+.note{
+    background: transparent;
+    font-size: 50%;
+    color: white;
+}
+
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g967{background-color:#ffcc67;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-dk9t{background-color:#f8a102;border-color:#330001;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
