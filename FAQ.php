@@ -16,7 +16,11 @@
 
     <div class="middle">
         <div class="middle_left">border1</div>
-        <div class="middle_main"> <div class="groot"></div></div>
+        <div class="middle_main">
+        
+        <?php include_once('includes/connection.faq.inc.php'); //connectie met DB maken
+        include_once('includes/select.faq.inc.php'); ?>
+        </div>
         <div class="middle_right">border2</div>
     </div>
     <div class="bottom">

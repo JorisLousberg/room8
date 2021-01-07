@@ -46,11 +46,11 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="tg-g967">12:00 -12:45</td>
-                            <td class="tg-g967">12:00 -12:45</td>
-                            <td class="tg-g967">12:00-12:45</td>
-                            <td class="tg-g967">12:00 -12:45</td>
-                            <td class="tg-g967">12:00 -12:45</td>
+                            <td class="tg-g967">10:00 -16:00</td>
+                            <td class="tg-g967">10:00 -16:00</td>
+                            <td class="tg-g967">10:00 -16:00</td>
+                            <td class="tg-g967">10:00 -16:00</td>
+                            <td class="tg-g967">10:00 -16:00</td>
                             <td class="tg-g967">gesloten</td>
                             <td class="tg-g967">gesloten</td>
                         </tr>
@@ -60,7 +60,7 @@
                 <address>
                     E-mail naar: <a href="mailto:notrealemail@hotmail.com">info@vistacollege.nl</a><br>
                     of bel ons via: +32-456-5557-20 <mark class="note">"random gegenereerde nummer"</mark> <br>
-                    addres: <br>
+                    adres: <br>
                     Sibemaweg 20 <br>
                     6224DC Maastricht <br>
                     Limburg, Nederland
