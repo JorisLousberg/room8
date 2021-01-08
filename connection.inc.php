@@ -3,9 +3,9 @@
 function getDbConnection(){
 
     $dbhost     = "localhost";
-    $dbname     = "db_gr8_canteen";
-    $dbuser     = "Gr8t";
-    $dbpass     = "8An92bs$";
+    $dbname     = "db_vbgr8_kantine";
+    $dbuser     = "Melissa";
+    $dbpass     = "Melissa01";
     $conn       = "";          // connection string
     $pdo        = "";          // handler
     $charset = 'utf8mb4';
@@ -19,8 +19,8 @@ function getDbConnection(){
     ];
     try {
         $pdo = new PDO($conn, $dbuser, $dbpass, $options); // create connection
-        //print_r($pdo);
         return $pdo;
+        //print_r($pdo);
     }
     catch (\PDOException $e) {
         throw new \PDOException($e->getMessage(), (int)$e->getCode());
