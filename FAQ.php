@@ -9,18 +9,18 @@
 <body>
     <div class="top">
         <div class="upper_left">
-        <nav>
-            <div class="NAVcontainer">
-                <div class="menuknop"><a href="index.php" class="menuknopp">HOME</a></div>
-                <div class="menuknop"><a href="menu.php" class="menuknopp">MENU</a></div>
-                <div class="menuknop"><a href="faq.php" class="menuknopp">FAQ</a></div>
-                <div class="menuknop"><a href="contact.php" class="menuknopp">CONTACT</a></div></nav></div></div>
+            <?php include_once 'includes/nav.inc.php'; ?> 
+        </div>
         <div class="upper_right"></div>
     </div>
 
     <div class="middle">
         <div class="middle_left">border1</div>
-        <div class="middle_main"> <div class="groot"></div></div>
+        <div class="middle_main">
+        
+        <?php include_once('includes/connection.faq.inc.php'); //connectie met DB maken
+        include_once('includes/select.faq.inc.php'); ?>
+        </div>
         <div class="middle_right">border2</div>
     </div>
     <div class="bottom">

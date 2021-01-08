@@ -103,6 +103,12 @@ div.menuknop {
         text-align: left;   
 }
 
+    float: left;
+    background-color: transparent;
+    color: white;
+    
+}
+
 .middle_right{
     height: auto;
     width: 10%;
