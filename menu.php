@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
+    <link rel="STYLESHEET" href="css/select.menu.style.css" type="text/css">
     <title>homepage</title>
 </head>
 <body>
@@ -13,8 +14,7 @@
            session_start(); 
        } 
 
-       require_once("shoppingcart.inc.php");
-       require_once('connection.inc.php'); //connection
+       require_once('includes/connection.inc.php'); //connection
        include('select.inc.php')
     ?>
     <div class="top">
@@ -48,7 +48,13 @@
         <div class="lower_middle"></div>
         <div class="lower_right"></div>
     </div>
-
+    <div id="winkelmand" class= "shoppingcart">
+       Winkelmandje
+    </div>
+    <script>
+        document.getElementById('winkelmand').innerHTML = 'Dit wordt de winkelmand';
+        document.getElementById('winkelmand').style.visibility = 'hidden';
+    </script>
 
 </body>
 </html>
