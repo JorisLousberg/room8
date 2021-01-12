@@ -17,3 +17,12 @@
     border-style: double;
     border-color: #ab2a11;
 }
+
+.middle_main table{
+    text-align: left; 
+}  
+    float: left;
+    background-color: transparent;
+    color: white;
+    
+}
