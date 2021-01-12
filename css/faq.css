@@ -2,6 +2,14 @@ body{
   background: darkblue;
 }
 
+.middle_main{
+  margin-left: 0%;
+  height: auto;
+  width: 80%;
+  float: center;
+  background-color: transparent;  
+}
+
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
   padding:10px 5px;word-break:normal;}
@@ -12,15 +20,27 @@ body{
 
 
 .table1 {
-    width: 50%;
+    width: 49%;
     height: fit-content;
     float: left;
     padding-top:1% ;
+    padding-right: 1%;
 
 }
 
+.question{
+  font-size: 120%;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+}
 
-
+.answer{
+  font-size: 80%;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+}
 
 
 

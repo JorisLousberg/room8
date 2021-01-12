@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
     <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
     <link rel="STYLESHEET" href="css/faq.css" type="text/css">
     
@@ -20,16 +22,18 @@
     </div>
 
     <div class="middle">
-        <div class="middle_left">border1</div>
+        <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main">
        
             <?php getqeust(1,1,$pdo);?>
             <?php getqeust(2,1,$pdo);?>
-            <?php getqeust(1,2,$pdo);?>
-            <?php getqeust(2,2,$pdo);?>
+            <?php getqeust(3,1,$pdo);?>
+            <?php getqeust(4,1,$pdo);?>
+            <?php getqeust(5,1,$pdo);?>
+            <?php getqeust(6,1,$pdo);?>
         
         </div>
-        <div class="middle_right">border2</div>
+        <div class="middle_right"><div class="border" draggable= 'true'>border2</div></div>
     </div>
     <div class="bottom">
         <div class="lower_left"></div>

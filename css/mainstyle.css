@@ -7,6 +7,8 @@ groen: #00555C
 /*body tag settings*/
 body{
     margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+    
 }
 
 /*top layout*/
@@ -98,13 +100,22 @@ div.menuknop {
     float: center;
     background-color: transparent;  
 }
-
+.border{
+    color: transparent;
+}
 .middle_main table{
+<<<<<<< Updated upstream
     text-align: left; 
 }  
     float: left;
+=======
+        text-align: left;   
+
+}
+    /*float: left;
+>>>>>>> Stashed changes
     background-color: transparent;
-    color: white;
+    color: white;*/
     
 }
 
@@ -113,8 +124,9 @@ div.menuknop {
     width: 10%;
     float: left;
     background-color: transparent;
-    color: transparent;/*the text keeps the border from hiding under top div*/
+    color: transparent;/*the text keeps the border from hiding under top div*/ 
 }
+
 
 /*lower layout*/
 .bottom{

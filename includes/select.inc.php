@@ -19,7 +19,7 @@ $html = "<table>"; // generate string with HTML, using the retrieved database va
         $html .= "<tr>
                     <td><h4>" . $row['product'] . "</td><td><b>&euro; " . $row['price'] . "</b></h4></td><td>
                     <input type='number' value='0' min='0' max='60' id='amount_id_" . $row['id'] . "'></td><td>
-                    <img src='/room8/images/wm.png' width='30' height='30' onclick='addtobasket(" . $row['id'] . ",\" " . $row['product'] . "\", " . $row['price'] . ");' /></td></tr>
+                    <img src='images/wm.png' width='30' height='30' onclick='addtobasket(" . $row['id'] . ",\" " . $row['product'] . "\", " . $row['price'] . ");' /></td></tr>
                     <tr><td colspan='4'>" . $row['description'] . "</td></tr>";
                 }
 

@@ -1,6 +1,7 @@
 <a href="FAQ.php"><div class="return">RETURN</div></a>
 <div class="form">
   <form action="" enctype="multipart/form-data" method="post">
+  <input type="number" name="tb_questid" value="" placeholder="vraag id"><br /> <!--question input -->
   <label for="languages">Kies een taal:</label><br /> <!--start catagory part -->
   <select id="lang" name="tb_language"><!--catagory list -->
     <option value="1">nl</option> <!--   option 1-->

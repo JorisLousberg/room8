@@ -11,7 +11,7 @@ function getqeust($id, $lang, $pdo){
                 <th class='tg-ye28'>" . $row['question'] . "</th></tr></thead>";
             echo  "<tbody> <tr>
                 <td class='tg-8m24'> " .  $row['answer'] . " id: " . $row['vraag_id'] . "</td>
-                </tr> </tbody> </table> </div>";
+                </tr> </tbody> </table> <br /> </div>";
             //echo    include('includes/faq_pop.inc.php');
             
         }
