@@ -7,7 +7,6 @@
     <link rel="STYLESHEET" href="css/contact.css" type="text/css">
     
     <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <script src="js/concact.js"></script>
     <title>contact</title>
 </head>
 <body>
