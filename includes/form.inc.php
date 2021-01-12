@@ -1,5 +1,5 @@
 <form action="admin.php" enctype="multipart/form-data" method="post">
-// <form action="<?php echo $thisPage; ?>" enctype="multipart/form-data" method="post">
+
 <p>
   <select name="tb_category">
 
