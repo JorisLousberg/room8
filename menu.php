@@ -15,7 +15,7 @@
        } 
 
        require_once('includes/connection.inc.php'); //connection
-       include('select.inc.php')
+       include('includes/select.inc.php')
     ?>
     <div class="top">
 
