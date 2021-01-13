@@ -32,8 +32,11 @@ echo $html;
 <script>
 
     function alert_sn(){
+
+        document.getElementById('winkelmand').style.visibility = 'hidden';
         Studentnumber = document.getElementById("studentennummer").value;
         alert("Uw bestelling met " + Studentnumber + " staat over 15 minuten voor u klaar!");
+        
     }
 
     //This is the prdct_arrays
@@ -84,7 +87,7 @@ echo $html;
 
         document.getElementById('winkelmand').innerHTML = ticket;
         document.getElementById('winkelmand').style.visibility = 'visible';
-
+        
         }
   
 </script>
