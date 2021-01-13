@@ -73,19 +73,13 @@ div.menuknop {
     height: 100%;
     width: /*fit-content*/20%;
     float: right;
-    
-}
-/*admin button settings:*/
-.adminlog{
-    height: 45px;
+    padding-top: 10%;
+    margin: 5px ;
+    padding: 5px;
+    line-height: 28px;
     width: 45px;
-    background-image: url('../images/AD_LOG.png');
-    float: left;
-    /*background: red;*/
-    position: relative;
-    margin-top: 5px;
-    display: block;
 }
+
 .image{
     height: 50px;
     background: url(../images/AD_LOG_hover.png);
@@ -125,8 +119,7 @@ div.menuknop {
 .middle_main table{
 
     text-align: left;   
-    float: left;
-
+    
 }
     /*float: left;
     background-color: transparent;
@@ -178,9 +171,4 @@ div.menuknop {
   font-size: 20pt;
   margin-left: 18%;
   font-weight: bold;
-}
-
-.nmr3{
-    float: center; 
-
 }

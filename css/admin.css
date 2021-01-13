@@ -31,3 +31,14 @@
     float: center;
     Padding-top: 80px;
 }
+
+.upper_right{
+    height: 100%;
+    width: /*fit-content*/20%;
+    float: right;
+    padding-top: 10%;
+    margin: 5px ;
+    padding: 5px;
+    line-height: 28px;
+    width: 45px;
+}

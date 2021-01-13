@@ -28,7 +28,7 @@
 
 
         <div class="upper_right"> 
-            <a href="admin.login.php"><div class="adminlog" style="background-image: url(images/AD_LOG.png);"><div class="image"></div></div></a>
+        <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
         </div>
 
     </div>

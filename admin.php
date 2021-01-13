@@ -12,9 +12,11 @@
         <div class="upper_left">
             <?php include_once 'includes/nav.inc.php'; ?> 
         </div>
-        <div class="upper_right"></div>
-    </div>
-    </div>
+        <div class="upper_right"> 
+        <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
+        </div>
+    
+</div>
     <div class="middle">
         <div class="middle_left">border1</div>
         <div class="middle_main3">
