@@ -1,4 +1,4 @@
-<a href="FAQ.php"><div class="return">RETURN</div></a>
+<a href="admin.php"><div class="return">RETURN</div></a>
 <div class="form">
   <form action="" enctype="multipart/form-data" method="post">
   <input type="number" name="tb_questid" value="" placeholder="vraag id"><br /> <!--question input -->
