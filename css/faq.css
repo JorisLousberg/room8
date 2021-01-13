@@ -2,12 +2,12 @@ body{
   background: darkblue;
 }
 
-.middle_main{
+.middle_main1{
   margin-left: 0%;
   height: auto;
   width: 80%;
   float: center;
-  background-color: transparent;  
+  background-color: rgb(187, 123, 111);  
 }
 
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -20,27 +20,80 @@ body{
 
 
 .table1 {
-    width: 49%;
+    width: 100%;
     height: fit-content;
     float: left;
-    padding-top:1% ;
+    padding-bottom:5% ;
     padding-right: 1%;
 
 }
 
 .question{
-  font-size: 120%;
-  color: white;
+  font-size: 150%;
+  color: rgb(0, 55, 72);
   width: fit-content;
   height: fit-content;
   text-align: left;
 }
 
 .answer{
-  font-size: 80%;
+  font-size: 90%;
   color: white;
   width: fit-content;
   height: fit-content;
+}
+
+.answer a{
+  padding: 0%;
+}
+.instruction{
+ width: 100%;
+ height: auto;
+}
+
+.instruction_txt{
+  width: 100%;
+  height: fit-content;
+  text-align: left;
+  
+  margin-left: 5px;
+}
+
+.instruction_txt2{
+  width: 100%;
+  height: fit-content;
+  text-align: left;
+  margin-bottom: 10%;
+  margin-left: 10%;
+  
+}
+
+.instruction_txt3{
+  width: 100%;
+  height: fit-content;
+  text-align: left;
+  padding-top: 5%;
+  margin-bottom: 5%;
+  
+}
+
+.instruction_img{
+   width: 100%;
+   height: fit-content;
+  
+}
+
+.afb{
+  margin-left:10%;
+}
+
+.afb2{
+  margin-left:10%;
+  padding-bottom: 10%;
+}
+
+h1 {
+  font-size: 350%;
 }
 
 
@@ -51,6 +104,16 @@ body{
 
 
 
+
+
+
+
+
+
+
+
+
+/*
 .modal-parent{
   position: fixed;
   top: 0;
