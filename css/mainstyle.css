@@ -73,9 +73,28 @@ div.menuknop {
     height: 100%;
     width: /*fit-content*/20%;
     float: right;
-    background-color: transparent;
+    
+}
+/*admin button settings:*/
+.adminlog{
+    height: 45px;
+    width: 45px;
+    background-image: url('../images/AD_LOG.png');
+    float: left;
+    /*background: red;*/
+    position: relative;
+    margin-top: 5px;
+    display: block;
+}
+.image{
+    height: 50px;
+    background: url(../images/AD_LOG_hover.png);
+    background-repeat: no-repeat;
 }
 
+.adminlog :hover{
+    background-image:url(../images/AD_LOG_hover.png);
+}   
 /*middle layout*/
 .middle{
     height:  auto;
@@ -104,20 +123,15 @@ div.menuknop {
     color: transparent;
 }
 .middle_main table{
-<<<<<<< Updated upstream
-    text-align: left; 
-}  
+
+    text-align: left;   
     float: left;
-=======
-        text-align: left;   
 
 }
     /*float: left;
->>>>>>> Stashed changes
     background-color: transparent;
     color: white;*/
     
-}
 
 .middle_right{
     height: auto;

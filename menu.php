@@ -25,7 +25,12 @@
         <div class="upper_left">
             <?php include_once 'includes/nav.inc.php'; ?> 
         </div>
-        <div class="upper_right"></div>
+
+
+        <div class="upper_right"> 
+            <a href="admin.login.php"><div class="adminlog" style="background-image: url(images/AD_LOG.png);"><div class="image"></div></div></a>
+        </div>
+
     </div>
 
     <div class="middle">
