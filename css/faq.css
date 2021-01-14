@@ -116,7 +116,15 @@ body {
 }
 
 .afb {
+  width: 50px;
   margin-left: 10%;
+  background-image: url(../images/AD_LOG_hover.png);
+  background-repeat:no-repeat ;
+  background-size: contain;
+  background-position: center top;
+  background-attachment: fixed;
+  /*background: yellow;*/
+  float: left;
 }
 
 .afb2 {

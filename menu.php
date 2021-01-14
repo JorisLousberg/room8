@@ -27,12 +27,13 @@ include ('includes/select.inc.php')
         </div>
 
 
-        <div class="upper_right"> 
+        <div class="upper_right">
+        <div class="transwrap"><a id="NL-EN" href="menu_eng.php"><img id="NL-ENimg" src="images/ukflag.png"></a></div>
         <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
         </div>
 
     </div>
-
+ 
     <div class="middle">
         <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main"><br>

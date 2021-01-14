@@ -12,9 +12,11 @@
 <body>
 <div class="top">
         <div class="upper_left">
+        
             <?php include_once 'includes/nav.eng.inc.php'; ?> 
         </div>
         <div class="upper_right"> 
+        <div class="transwrap"><a id="NL-EN" href="faq_instruction.php"><img id="NL-ENimg" src="images/nlflag.png"></a></div>
         <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
         </div>
 </div>
