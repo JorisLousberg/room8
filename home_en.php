@@ -1,10 +1,12 @@
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
-    <script src="script.js"></script>
+    <script src="js/home.js"></script>
     <title>Home - Vista Canteen</title>
     <link rel="icon" type="image/png" href="img/vistalogo.png">
 </head>
@@ -61,7 +63,7 @@
 
                     <!-- sticky note with copy function  -->
                 <div id="sticknote">
-                    <img id="sticknote-img" src="img/stickynote_en.png"> 
+                    <img id="sticknote-img" src="images/stickynote_en.png"> 
                         <!-- Image from https://fontmeme.com/sticky-notes/ -->
                     
                         <!-- change 'value' to change copy value -->
