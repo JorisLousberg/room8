@@ -16,7 +16,7 @@
 
     <div class="top">
         <div class="upper_left">
-            <?php include_once 'includes/nav.inc.php'; ?> 
+            <?php include_once 'includes/nav.eng.inc.php'; ?> 
         </div>
         <div class="upper_right"> 
         <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
