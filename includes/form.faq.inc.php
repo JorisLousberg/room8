@@ -4,8 +4,8 @@
   <input type="number" name="tb_questid" value="" placeholder="vraag id"><br /> <!--question input -->
   <label for="languages">Kies een taal:</label><br /> <!--start catagory part -->
   <select id="lang" name="tb_language"><!--catagory list -->
-    <option value="1">nl</option> <!--   option 1-->
-    <option value="2">eng</option> <!--  option 2-->
+    <option value="1">NL</option> <!--   option 1-->
+    <option value="2">EN</option> <!--  option 2-->
     
   </select><br /> <!--END catagory list -->
 
