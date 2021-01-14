@@ -2,9 +2,9 @@
     function getDbConnection() {
 
         $dbhost     = "localhost";
-        $dbname     = "db_faq";
-        $dbuser     = "kantine";
-        $dbpass     = "kantine";
+        $dbname     = "groep8_kantine";
+        $dbuser     = "Gr8tt";
+        $dbpass     = "8An92bs$";
         $conn       = "";          // connection string
         $pdo        = "";          // handler
         $charset = 'utf8mb4';
