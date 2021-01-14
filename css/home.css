@@ -29,26 +29,26 @@ body {
 }
 
 .nav {
-    height: 75px;
-    max-height: 75px;
+    height: 100px;
+    max-height: 100px;
     width: 80%;
     background-color: #00555C;
     margin: auto;
     position: fixed;
     left: 10%;
     z-index: 5;
-    padding-bottom: 25px;
 }
 
 .nav ul {
-    padding: 15px;
+    padding: 0 15px 0 15px;
     border-left: 1px solid #E56A54;
+    margin-top: 25px;
 }
 
 .navbtn {
     color: white;
     text-decoration: none;
-    padding: 20px;
+    padding: 0 20px 0 20px;
     font-size: 30px;
     border-radius: 10px;
 }
@@ -62,22 +62,23 @@ body {
     background-color: rgba(150, 0, 0);
     border: 2px solid red;
     border-radius: 30px;
-    width: 650px;
-    height: 80px;
-    z-index: 10;
-    position: absolute;
-    right: 250px;
-    top: 7px;
+    max-width: 560px;
+    height: 60px;
+    /* position: fixed; */
+    float: right;
     color: rgb(255, 255, 255);
+    margin-right: 25px;
+    margin-top: -10px;
 }
 
 #covid-text h2 {
     text-align: center;
     margin: 0;
+    font-size: 15px;
 }
 
 #covid-text p {
-    font-size: 15px;
+    font-size: 13px;
     text-align: center;
     margin: 0;
     margin-left: 5px;
@@ -93,12 +94,13 @@ body {
     color: white;
     text-decoration: none;
     float: right;
-    margin-right: 50px;
+    margin-right: 25px;
     font-size: 30px;
 }
 
 #NL-EN img {
     width: 80px;
+    height: 50px;
     border-radius: 10px;
 }
 
@@ -109,7 +111,7 @@ body {
 }
 
 #admin-btn img {
-    height: 40px;
+    height: 50px;
 }
 
 /*middle layout*/
@@ -171,6 +173,7 @@ body {
 /* 3 images in main  */
 #main-img {
     width: 400px;
+    max-width: 300px;
     height: 90%;
     float: right;
     z-index: 3;
@@ -190,11 +193,11 @@ body {
     z-index: 3;
 }
 
+/* Sticky Note w/ copy function (JS) */
 #sticknote {
     position: absolute;
-    float: left;
     bottom: 50px;
-    right: 500px;
+    right: 400px;
     z-index: 10;
 }
 
@@ -209,8 +212,6 @@ body {
     cursor: pointer;
     z-index: 10;
 }
-
-
 
 /*footer*/
 footer {
