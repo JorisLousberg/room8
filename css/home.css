@@ -103,6 +103,16 @@ body {
     border-radius: 10px;
 }
 
+/* admin button  */
+#admin-btn {
+    float: right;
+    height: 40px;
+}
+
+#admin-btn img {
+    height: 40px;
+}
+
 /*middle layout*/
 .middle {
     height: 800px
