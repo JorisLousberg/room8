@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
+    <link rel="STYLESHEET" href="css/home.css" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
     <script src="js/home.js"></script>
     <title>Home - Vista Canteen</title>
