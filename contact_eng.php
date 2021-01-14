@@ -18,6 +18,7 @@
         </div>
 
         <div class="upper_right"> 
+        <div class="transwrap"><a id="NL-EN" href="contact.php"><img id="NL-ENimg" src="images/nlflag.png"></a></div>
         <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
         </div>
 

@@ -59,13 +59,13 @@ div.menuknop {
 /*Translate section settings*/
 .upper_right{
     height: 100%;
-    width: /*fit-content*/20%;
+    width: /*fit-content*/20%;/*12*/
     float: right;
     padding-top: 10%;
     margin: 5px ;
     padding: 5px;
     line-height: 28px;
-    width: 45px;
+    background: transparent;
 }
 
 .image{
@@ -76,7 +76,31 @@ div.menuknop {
 
 .adminlog :hover{
     background-image:url(../images/AD_LOG_hover.png);
-}   
+} 
+
+/* Link to English Page  */
+#NL-EN {
+    color: white;
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+#NL-EN img {
+    height: 40px;
+    width: 80px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.transwrap{
+    height: fit-content;
+    float: left;
+    position: relative;
+    margin-top: -2%;
+    margin-right:-10% ;
+}
 /*middle layout*/
 .middle{
     height:  auto;
