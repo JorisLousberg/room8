@@ -11,9 +11,9 @@
 <body>
 
         <!-- Background Image  -->
-    <img id="bg" src="img/canteen.jpg">
+    <img id="bg" src="images/canteen.jpg">
         <!-- Vista Logo -->
-        <img id="vistaLogo" src="img/vistalogo.png">
+        <img id="vistaLogo" src="images/vistalogo.png">
 
     <div>
             <!-- Top Section / Navbar  -->
@@ -23,7 +23,7 @@
                     <a class="navbtn" href="">Menu</a>
                     <a class="navbtn" href="">Contact</a>
                     <a class="navbtn" href="">FAQ</a>
-                    <a id="NL-EN" href="index.php"><img id="NL-ENimg" src="img/nlflag.png"></a>
+                    <a id="NL-EN" href="index.php"><img id="NL-ENimg" src="images/nlflag.png"></a>
                     <div id="covid-text"> <!-- #covid-text = temporary id used in css -->
                         <h2>COVID-19</h2>
                         <p>
@@ -54,9 +54,9 @@
                 
                     <!-- 3 images  -->
                 <section id="main-img">
-                    <img src="img/main1.jpg">
-                    <img src="img/main2.png">
-                    <img src="img/main3.png">
+                    <img src="images/main1.jpg">
+                    <img src="images/main2.png">
+                    <img src="images/main3.png">
                 </section>
 
                     <!-- sticky note with copy function  -->
@@ -66,7 +66,7 @@
                     
                         <!-- change 'value' to change copy value -->
                     <input type="hidden" value="0612345678" id="copyText">
-                    <img onclick="copyPhoneEN()" src="img/copy.png">
+                    <img onclick="copyPhoneEN()" src="images/copy.png">
                 </div>
             </div>
                     <!-- <div id="datetime">
