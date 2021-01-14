@@ -33,24 +33,24 @@
             </div>
             <div class="instruction_txt"><p>If you clicked on this you should see this page.</p></div>
             <div class="instruction_img">
-                <div class="afb"><img src="images/instruction/step2(nl).png" width='300' alt=""></div>
+                <div class="afb"><img src="images/instruction/step2(eng).png" width='300' alt=""></div>
             </div>
             <div class="instruction_txt"><p>2.	Enter the quantity of the item you want on this page and then click the <br /> round white shopping cart icon for the same item.</p></div>
             <div class="instruction_img">
-                <div class="afb"><img src="images/instruction/step3(nl).png" width='300' alt=""></div>
+                <div class="afb"><img src="images/instruction/step3(eng).png" width='300' alt=""></div>
             </div>
             <div class="instruction_txt"><p>3.	A pop up will appear after clicking the button with the chosen item, <br />the number of times you ordered it and the total amount. <br /><br /> you can see in the example that a healthy sandwich has been ordered.</p></div>
             <div class="instruction_img">
-                <div class="afb"><img src="images/instruction/step4(nl).png" width='300' alt=""></div>
+                <div class="afb"><img src="images/instruction/step4(eng).png" width='300' alt=""></div>
             </div>
             <div class="instruction_txt"><p>4. Add the other items you want to order.</p></div>
             <div class="instruction_img">
-                <div class="afb"><img src="images/instruction/step5(nl).png" width='300' alt=""></div>
+                <div class="afb"><img src="images/instruction/step5(eng).png" width='300' alt=""></div>
             </div>
             <div class="instruction_txt"><p>5. When you have everything you want in the order,<br /> enter your student number (if you are not a student <br />fill in the time of ordering with your first name). <br /><br /> It is also recommended to take a screenshot as a non-student <br /> to be able to prove you are the one who ordered it. <br /><br /><br /><br /><br /> 
                 6. After entering the student number, click on submit.<br /> The order is then forwarded to the canteen service,<br /> you would also receive this message.</p></div>
             <div class="instruction_img">
-                <div class="afb2"><img src="images/instruction/step6(nl).png" width='300' alt=""></div>
+                <div class="afb2"><img src="images/instruction/step6(eng).png" width='300' alt=""></div>
             </div>
             
             </div>
