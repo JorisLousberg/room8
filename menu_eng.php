@@ -16,9 +16,9 @@ if (!isset($_SESSION))
     session_start();
 }
 
-require_once ('includes/connection.inc.php'); //connection
-include ('includes/select.inc.php')
-?>
+       require_once('includes/connection.inc.php'); //connection
+       include('includes/select.inc.en.php')
+    ?>
     <div class="top">
 
 <div class="top">
@@ -53,7 +53,11 @@ include ('includes/select.inc.php')
 
     <div class="bottom">
         <div class="lower_left"></div>
-        <div class="lower_middle"></div>
+        <div class="lower_middle">
+            <footer>
+                <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
+            </footer></div>
+        </div>
         <div class="lower_right"></div>
     </div>
     <div id="winkelmand" class= "shoppingcart">
