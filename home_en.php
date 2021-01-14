@@ -70,10 +70,16 @@
                     <img id="copy-img" onclick="copyPhoneEN()" src="images/copy.png">
                 </div>
             </div>
-            <!-- Footer -->
-        <footer>
-            <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
-        </footer>
+    <div class="bottom">
+        <div class="lower_left"></div>
+            <div class="lower_middle">
+                <footer>
+                    <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
+                </footer></div>
+            </div>
+            <div class="lower_right"></div>
+            </div>
+        </div>
     </div>
 </body>
 </html>

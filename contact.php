@@ -84,11 +84,11 @@
 
     <div class="bottom">
         <div class="lower_left"></div>
-        <div class="lower_middle"></div>
+        <div class="lower_middle">
+            <footer>
+                <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
+            </footer></div>
         <div class="lower_right"></div>
     </div>
-        <footer>
-            <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
-        </footer>
 </body>
 </html>
