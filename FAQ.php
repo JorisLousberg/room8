@@ -19,6 +19,7 @@
             <?php include_once 'includes/nav.inc.php'; ?> 
         </div>
         <div class="upper_right"> 
+        <a id="NL-EN" href="home_en.php"><img id="NL-ENimg" src="images/ukflag.png"></a>
         <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
         </div>
     </div>
