@@ -29,7 +29,7 @@
                     <div id="covid-text"> <!-- #covid-text = temporary id used in css -->
                         <h2>COVID-19</h2>
                         <p>
-                            In connection with Covid-19 measures is the canteen of Vista College closed. Ordering is still a possibility. Updates happen on <a href="https://vistacollege.nl/nieuws/corona">the site of Vista College</a>.</a>.
+                            In connection with Covid-19 measures is the canteen of Vista College closed. Ordering is still a possibility. Updates happen on <a href="https://vistacollege.nl/nieuws/corona">the site of Vista College</a>.</a>
                         </p>
                     </div>
                 </ul>
