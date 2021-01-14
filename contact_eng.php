@@ -14,7 +14,7 @@
 <body>
     <div class="top">
         <div class="upper_left">
-            <?php include_once 'includes/nav.inc.php'; ?>
+            <?php include_once 'includes/nav.eng.inc.php'; ?>
         </div>
 
         <div class="upper_right"> 
@@ -65,7 +65,7 @@
                 </div>
                 <address>
                     E-mail to: <a href="mailto:notrealemail@hotmail.com">info@vistacollege.nl</a><br>
-                    or call us via: +32-456-5557-20 <mark class="note">"Random generated number"</mark> <br>
+                    or call us via: 0612345678 <mark class="note">"Random generated number"</mark> <br>
                     Adress: <br>
                     Sibemaweg 20 <br>
                     6224DC Maastricht <br>

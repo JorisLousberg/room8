@@ -11,10 +11,10 @@
 </head>
 <body>
 <?php
-       if(!isset($_SESSION)) 
-       { 
-           session_start(); 
-       } 
+if (!isset($_SESSION))
+{
+    session_start();
+}
 
        require_once('includes/connection.inc.php'); //connection
        include('includes/select.inc.en.php')
@@ -23,7 +23,7 @@
 
 <div class="top">
         <div class="upper_left">
-            <?php include_once 'includes/nav.inc.php'; ?> 
+            <?php include_once 'includes/nav.eng.inc.php'; ?> 
         </div>
 
 
@@ -37,15 +37,15 @@
         <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main"><br>
             <div class="menuheader">Sandwiches / Wraps</div><br>
-            <?php getmenu(1,2,$pdo);?><br>
+            <?php getmenu(1, 2, $pdo); ?><br>
             <div class="menuheader">Soup</div><br>
-            <?php getmenu(2,2,$pdo);?><br>
+            <?php getmenu(2, 2, $pdo); ?><br>
             <div class="menuheader">Snacks</div><br>
-            <?php getmenu(3,2,$pdo);?><br>
+            <?php getmenu(3, 2, $pdo); ?><br>
             <div class="menuheader">Sweets</div><br>
-            <?php getmenu(4,2,$pdo);?><br>
+            <?php getmenu(4, 2, $pdo); ?><br>
             <div class="menuheader">Drinks</div><br>
-            <?php getmenu(5,2,$pdo);?><br>
+            <?php getmenu(5, 2, $pdo); ?><br>
         </div> 
         <div class="middle_right"><div class="border" draggable= 'true'>border1</div></div>
     </div>

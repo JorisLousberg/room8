@@ -65,7 +65,7 @@
                 </div>
                 <address>
                     E-mail naar: <a href="mailto:notrealemail@hotmail.com">info@vistacollege.nl</a><br>
-                    of bel ons via: +32-456-5557-20 <mark class="note">"random gegenereerde nummer"</mark> <br>
+                    of bel ons via: 0612345678 <mark class="note">"random gegenereerde nummer"</mark> <br>
                     Adres: <br>
                     Sibemaweg 20 <br>
                     6224DC Maastricht <br>

@@ -11,12 +11,12 @@
     <title>FAQ</title>
 </head>
 <body>
-<?php include_once('includes/connection.faq.inc.php'); //connectie met DB maken
-        include_once('includes/select.faq.inc.php'); ?>
+<?php include_once ('includes/connection.faq.inc.php'); //connectie met DB maken
+include_once ('includes/select.faq.inc.php'); ?>
 
     <div class="top">
         <div class="upper_left">
-            <?php include_once 'includes/nav.inc.php'; ?> 
+            <?php include_once 'includes/nav.eng.inc.php'; ?> 
         </div>
         <div class="upper_right"> 
         <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
@@ -27,12 +27,12 @@
         <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main">
                 <div class="instruction_txt3"><h1>Welcome to our FAQ!</h1> Here in our faq you can come across questions that have been asked more often. <br /> We hope that you will find your answers here.<br /></div>
-            <?php getqeust(1,2,$pdo);?>
-            <?php getqeust(2,2,$pdo);?>
-            <?php getqeust(3,2,$pdo);?>
-            <?php getqeust(4,2,$pdo);?>
-            <?php getqeust(5,2,$pdo);?>
-            <?php getqeust(6,2,$pdo);?>
+            <?php getqeust(1, 2, $pdo); ?>
+            <?php getqeust(2, 2, $pdo); ?>
+            <?php getqeust(3, 2, $pdo); ?>
+            <?php getqeust(4, 2, $pdo); ?>
+            <?php getqeust(5, 2, $pdo); ?>
+            <?php getqeust(6, 2, $pdo); ?>
         
         </div>
         <div class="middle_right"><div class="border" draggable= 'true'>border2</div></div>
