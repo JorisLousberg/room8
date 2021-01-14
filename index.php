@@ -46,8 +46,8 @@
                             Onze kantine is bedoeld voor de leerlingen en docenten van het Vista College. We zijn van maandag tot vrijdag geopend in het gebouw van het Vista College.
                             Op deze site kun je ons menu bekijken, en bestellen door middel van ons inlogsysteem met je studentnummer! Of zonder in te loggen als u dat prettiger vind.
                             <br><br>
-                            Informatie zoals locatie, telefoonnummer en dergelijke vind je op de <a href="./contact.php">Contactpagina</a>.<br>
-                            Als je vragen hebt kan je altijd contact met ons opnemen, maar we raden je ook aan om eerst te kijken op onze <a href="./faq.php">Veelgestelde Vragen</a> (FAQ) pagina. Misschien staat jouw vraag er wel tussen!
+                            Informatie zoals locatie, telefoonnummer en dergelijke vind je op de <a href="contact.php">Contactpagina</a>.<br>
+                            Als je vragen hebt kan je altijd contact met ons opnemen, maar we raden je ook aan om eerst te kijken op onze <a href="faq.php">Veelgestelde Vragen</a> (FAQ) pagina. Misschien staat jouw vraag er wel tussen!
                             
                         </p>
                     </div>

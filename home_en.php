@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="STYLESHEET" href="css/home.css" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
     <script src="js/home.js"></script>
     <title>Home - Vista Canteen</title>
-    <link rel="icon" type="image/png" href="img/vistalogo.png">
+    <link rel="icon" type="image/png" href="images/vistalogo.png">
 </head>
 <body>
 
@@ -46,7 +45,7 @@
                             Our canteen is meant for the students and teachers of Vista College. We are open from monday til friday in the Vista College building.
                             On this site you can watch our menu and order via our login system with you student number! Or without logging in if you prefer that.
                             <br><br>
-                            You will find information like location, phone number etc. on <a href="./contact_eng.php">Contact Page</a>.<br>
+                            You will find information like location, phone number etc. on <a href="contact_eng.php">Contact Page</a>.<br>
                             If you have any questions, you can contact us anytime. But we advice you to look first on <a href="FAQ_eng.php">Frequently Asked Questions</a> (FAQ) page. Maybe your question is in it!
                         </p>
                     </div>
@@ -68,22 +67,13 @@
                     
                         <!-- change 'value' to change copy value -->
                     <input type="hidden" value="0612345678" id="copyText">
-                    <img onclick="copyPhoneEN()" src="images/copy.png">
+                    <img id="copy-img" onclick="copyPhoneEN()" src="images/copy.png">
                 </div>
             </div>
-                    <!-- <div id="datetime">
-                    <span>
-                    <?php
-                            echo date("H:i");
-                        ?>
-                    </span>
-                </div> -->
-            </div>
-        
             <!-- Footer -->
-    <footer>
-        <h2>--Footer--</h2>
-    </footer>
+        <footer>
+            <h2>--Footer--</h2>
+        </footer>
     </div>
 </body>
 </html>
