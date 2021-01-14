@@ -24,6 +24,7 @@
                     <a class="navbtn" href="menu.php">Menu</a>
                     <a class="navbtn" href="contact.php">Contact</a>
                     <a class="navbtn" href="FAQ.php">FAQ</a>
+                    <a id="admin-btn" href="admin.login.php"><img src="images/AD_LOG.png"></a>
                     <a id="NL-EN" href="home_en.php"><img id="NL-ENimg" src="images/ukflag.png"></a>
                     <div id="covid-text"> <!-- #covid-text = temporary id used in css -->
                         <h2>COVID-19</h2>
