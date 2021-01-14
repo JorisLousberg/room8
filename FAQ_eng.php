@@ -42,6 +42,9 @@ include_once ('includes/select.faq.inc.php'); ?>
         <div class="lower_middle"></div>
         <div class="lower_right"></div>
     </div>
+        <footer>
+            <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
+        </footer>
 </body>
 <script src="js/functions.faq.js"></script>
 </html>

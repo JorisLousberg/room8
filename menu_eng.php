@@ -58,6 +58,9 @@ if (!isset($_SESSION))
     <div id="winkelmand" class= "shoppingcart">
        Cart
     </div>
+        <footer>
+            <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
+        </footer>
     <script>
         document.getElementById('winkelmand').innerHTML = 'Dit wordt de winkelmand';
         document.getElementById('winkelmand').style.visibility = 'hidden';

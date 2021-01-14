@@ -72,7 +72,7 @@
             </div>
             <!-- Footer -->
         <footer>
-            <h2>--Footer--</h2>
+            <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
         </footer>
     </div>
 </body>

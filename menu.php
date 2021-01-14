@@ -58,6 +58,9 @@ include ('includes/select.inc.php')
     <div id="winkelmand" class= "shoppingcart">
        Winkelmandje
     </div>
+        <footer>
+            <h2>Melissa, Joris, Cedric, Nick © 2021</h2>
+        </footer>
     <script>
         document.getElementById('winkelmand').innerHTML = 'Dit wordt de winkelmand';
         document.getElementById('winkelmand').style.visibility = 'hidden';
