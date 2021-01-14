@@ -1,12 +1,12 @@
-.middle_main{
+.middle_main {
     margin-left: 25%;
     height: auto;
     width: 80%;
     float: center;
-    background-color: transparent;  
+    background-color: transparent;
 }
 
-.shoppingcart{
+.shoppingcart {
     position: fixed;
     top: 60px;
     left: 70px;
@@ -18,6 +18,6 @@
     border-color: #ab2a11;
 }
 
-.middle_main table{
-    text-align: left; 
-}  
+.middle_main table {
+    text-align: left;
+}

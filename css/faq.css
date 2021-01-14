@@ -1,34 +1,65 @@
-body{
+body {
   background: darkblue;
 }
 
-.middle_main1{
+.middle_main1 {
   margin-left: 0%;
   height: auto;
   width: 80%;
   float: center;
-  background-color: rgb(187, 123, 111);  
+  background-color: rgb(187, 123, 111);
 }
 
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ye28{background-color:#333333;color:#000000;text-align:left;vertical-align:top}
-.tg .tg-8m24{background-color:#000000;text-align:left;vertical-align:top}
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-style: solid;
+  border-width: 0px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-style: solid;
+  border-width: 0px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-ye28 {
+  background-color: #333333;
+  color: #000000;
+  text-align: left;
+  vertical-align: top
+}
+
+.tg .tg-8m24 {
+  background-color: #000000;
+  text-align: left;
+  vertical-align: top
+}
 
 
 .table1 {
-    width: 100%;
-    height: fit-content;
-    float: left;
-    padding-bottom:5% ;
-    padding-right: 1%;
+  width: 100%;
+  height: fit-content;
+  float: left;
+  padding-bottom: 5%;
+  padding-right: 1%;
 
 }
 
-.question{
+.question {
   font-size: 150%;
   color: rgb(0, 55, 72);
   width: fit-content;
@@ -36,59 +67,60 @@ body{
   text-align: left;
 }
 
-.answer{
+.answer {
   font-size: 90%;
   color: white;
   width: fit-content;
   height: fit-content;
 }
 
-.answer a{
+.answer a {
   padding: 0%;
 }
-.instruction{
- width: 100%;
- height: auto;
+
+.instruction {
+  width: 100%;
+  height: auto;
 }
 
-.instruction_txt{
+.instruction_txt {
   width: 100%;
   height: fit-content;
   text-align: left;
-  
+
   margin-left: 5px;
 }
 
-.instruction_txt2{
+.instruction_txt2 {
   width: 100%;
   height: fit-content;
   text-align: left;
   margin-bottom: 10%;
   margin-left: 10%;
-  
+
 }
 
-.instruction_txt3{
+.instruction_txt3 {
   width: 100%;
   height: fit-content;
   text-align: left;
   padding-top: 5%;
   margin-bottom: 5%;
-  
+
 }
 
-.instruction_img{
-   width: 100%;
-   height: fit-content;
-  
+.instruction_img {
+  width: 100%;
+  height: fit-content;
+
 }
 
-.afb{
-  margin-left:10%;
+.afb {
+  margin-left: 10%;
 }
 
-.afb2{
-  margin-left:10%;
+.afb2 {
+  margin-left: 10%;
   padding-bottom: 10%;
 }
 

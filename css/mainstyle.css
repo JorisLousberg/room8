@@ -1,5 +1,5 @@
 /*body tag settings*/
-body{
+body {
     margin: 0%;
     /* background-image: url("../img/canteen.jpg"); */
     background-color: black;
@@ -68,7 +68,7 @@ body{
     position: absolute;
     right: 200px;
     top: 7px;
-    
+
 }
 
 #covid-text h2 {
@@ -104,13 +104,15 @@ body{
 }
 
 /*middle layout*/
-.middle{
-    height: 800px /*fit-content*/;
+.middle {
+    height: 800px
+        /*fit-content*/
+    ;
     width: 100%;
     float: left;
 }
 
-.middle_main{
+.middle_main {
     height: 100%;
     width: 80%;
     margin: auto;

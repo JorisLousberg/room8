@@ -3,28 +3,28 @@
     Padding-top: 100px;
 }
 
-.middle_main2{
+.middle_main2 {
     margin-left: 30%;
     height: 40%;
     width: 80%;
     float: center;
-    background-color: transparent;  
+    background-color: transparent;
 }
 
-.middle{
-    height:  800px;
-    width:  100%;
+.middle {
+    height: 800px;
+    width: 100%;
     float: left;
     display: flex;
     background-color: rgb(229, 106, 84);
 }
 
-.middle_main3{
+.middle_main3 {
     margin-left: 35%;
     height: 40%;
     width: 80%;
     float: center;
-    background-color: transparent;  
+    background-color: transparent;
 }
 
 .send {
@@ -32,12 +32,14 @@
     Padding-top: 80px;
 }
 
-.upper_right{
+.upper_right {
     height: 100%;
-    width: /*fit-content*/20%;
+    width:
+        /*fit-content*/
+        20%;
     float: right;
     padding-top: 10%;
-    margin: 5px ;
+    margin: 5px;
     padding: 5px;
     line-height: 28px;
     width: 45px;
