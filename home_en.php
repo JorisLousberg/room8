@@ -22,7 +22,7 @@
         <section id="top">
             <div class="nav">
                 <ul>
-                    <a class="navbtn" href="menu_en.php">Menu</a>
+                    <a class="navbtn" href="menu_eng.php">Menu</a>
                     <a class="navbtn" href="contact_eng.php">Contact</a>
                     <a class="navbtn" href="FAQ_eng.php">FAQ</a>
                     <a id="NL-EN" href="index.php"><img id="NL-ENimg" src="images/nlflag.png"></a>
