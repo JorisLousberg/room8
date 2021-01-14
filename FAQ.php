@@ -19,8 +19,8 @@
             <?php include_once 'includes/nav.inc.php'; ?> 
         </div>
         <div class="upper_right"> 
-            <div class="transwrap"><a id="NL-EN" href="faq_eng.php"><img id="NL-ENimg" src="images/ukflag.png"></a></div>
-            <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
+            <div class="transwrap"><a id="NL-EN" href="FAQ_eng.php"><img id="NL-ENimg" src="images/ukflag.png"></a></div>
+            <a id="admin-btn" href="admin.login.php"><img src="images/AD_LOG.png"></a>
         </div>
     </div>
 

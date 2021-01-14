@@ -183,3 +183,13 @@ color: transparent;/*the text keeps the border from hiding under top div*/
   margin-left: 18%;
   font-weight: bold;
 }
+
+/* admin button  */
+#admin-btn {
+    float: right;
+    height: 40px;
+}
+
+#admin-btn img {
+    height: 50px;
+}

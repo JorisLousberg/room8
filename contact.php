@@ -7,8 +7,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
     <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
     <link rel="STYLESHEET" href="css/contact.css" type="text/css">
-    
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
     <title>Contact</title>
 </head>
 <body>
@@ -19,7 +17,7 @@
 
         <div class="upper_right"> 
         <div class="transwrap"><a id="NL-EN" href="contact_eng.php"><img id="NL-ENimg" src="images/ukflag.png"></a></div>
-        <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
+        <a id="admin-btn" href="admin.login.php"><img src="images/AD_LOG.png"></a>
         </div>
 
         </div>

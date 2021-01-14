@@ -29,7 +29,7 @@ if (!isset($_SESSION))
 
         <div class="upper_right"> 
             <div class="transwrap"><a id="NL-EN" href="menu.php"><img id="NL-ENimg" src="images/nlflag.png"></a></div>
-            <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
+            <a id="admin-btn" href="admin.login.php"><img src="images/AD_LOG.png"></a>
         </div>
 
     </div>

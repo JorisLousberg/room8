@@ -7,9 +7,6 @@
 .table {
     width: 100%;
     height: fit-content;
-
-
-
 }
 
 .map {
@@ -86,4 +83,14 @@ a {
     font-weight: bold;
     text-align: left;
     vertical-align: top
+}
+
+/* admin button  */
+#admin-btn {
+    float: right;
+    height: 40px;
+}
+
+#admin-btn img {
+    height: 50px;
 }

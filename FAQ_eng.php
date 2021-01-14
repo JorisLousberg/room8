@@ -7,7 +7,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
     <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
     <link rel="STYLESHEET" href="css/faq.css" type="text/css">
-    
     <title>FAQ</title>
 </head>
 <body>
@@ -20,8 +19,8 @@ include_once ('includes/select.faq.inc.php'); ?>
             <?php include_once 'includes/nav.eng.inc.php'; ?> 
         </div>
         <div class="upper_right">
-            <div class="transwrap"><a id="NL-EN" href="faq.php"><img id="NL-ENimg" src="images/nlflag.png"></a></div> 
-            <img src='images/AD_LOG.png' width='40' height='40' onclick="window.location='admin.login.php';">
+            <div class="transwrap"><a id="NL-EN" href="FAQ.php"><img id="NL-ENimg" src="images/nlflag.png"></a></div> 
+            <a id="admin-btn" href="admin.login.php"><img src="images/AD_LOG.png"></a>
         </div>
     </div>
 
