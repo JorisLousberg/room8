@@ -1,5 +1,5 @@
 body {
-  background: darkblue;
+ 
 }
 
 .middle_main1 {
@@ -110,6 +110,7 @@ body {
 }
 
 .instruction_img {
+  margin: 10px;
   width: 100%;
   height: fit-content;
 
@@ -118,13 +119,7 @@ body {
 .afb {
   width: 50px;
   margin-left: 10%;
-  background-image: url(../images/AD_LOG_hover.png);
-  background-repeat:no-repeat ;
-  background-size: contain;
-  background-position: center top;
-  background-attachment: fixed;
-  /*background: yellow;*/
-  float: left;
+  
 }
 
 .afb2 {
@@ -136,6 +131,11 @@ h1 {
   font-size: 350%;
 }
 
+.link{
+  color: blue;
+  text-decoration: underline;
+  background-color: transparent;
+}
 
 
 

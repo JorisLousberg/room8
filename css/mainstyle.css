@@ -1,7 +1,8 @@
 /*body tag settings*/
 body{
     margin: 0%;
-    font-family: 'Open Sans', sans-serif;  
+    font-family: 'Open Sans', sans-serif;
+    background:rgb(0, 85, 92); ;  
 }
 
 /*top layout*/

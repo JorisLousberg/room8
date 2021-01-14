@@ -27,7 +27,7 @@
             <div class="instruction_txt2"><h1>The ordering system:</h1> </div>
             <div class="instruction">
             <div class="instruction_txt"><p>The ordering system will be explained on this page. <br />If something does not work or you cannot continue,<br /> please contact us.<br /><br />
-            1. First, click the MENU button in the menu bar.</p></div>
+                1. First, click the MENU button in the menu bar.</p></div>
             <div class="instruction_img">
                 <div class="afb"><img src="images/instruction/step1(nl).png" width='300' alt=""></div>
             </div>
@@ -48,7 +48,7 @@
                 <div class="afb"><img src="images/instruction/step5(nl).png" width='300' alt=""></div>
             </div>
             <div class="instruction_txt"><p>5. When you have everything you want in the order,<br /> enter your student number (if you are not a student <br />fill in the time of ordering with your first name). <br /><br /> It is also recommended to take a screenshot as a non-student <br /> to be able to prove you are the one who ordered it. <br /><br /><br /><br /><br /> 
-            6. After entering the student number, click on submit.<br /> The order is then forwarded to the canteen service,<br /> you would also receive this message.</p></div>
+                6. After entering the student number, click on submit.<br /> The order is then forwarded to the canteen service,<br /> you would also receive this message.</p></div>
             <div class="instruction_img">
                 <div class="afb2"><img src="images/instruction/step6(nl).png" width='300' alt=""></div>
             </div>

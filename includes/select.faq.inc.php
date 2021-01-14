@@ -10,7 +10,7 @@ function getqeust($id, $lang, $pdo){
             echo "<div class='table1'> <table class'tg'> <thead> <tr> 
                 <th class='tg-ye28'>" . $row['question'] . "</th></tr></thead>";
             echo  "<tbody> <tr>
-                <td class='tg-8m24'>" .  $row['answer'] . $row['vraag_id'] . "</td>
+                <td class='tg-8m24'>" .  $row['answer'] . "</td>
                 </tr> </tbody> </table> <br /> </div>";
             //echo    include('includes/faq_pop.inc.php');
             

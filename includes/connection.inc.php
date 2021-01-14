@@ -3,9 +3,9 @@
 function getDbConnection(){
 
     $dbhost     = "localhost";
-    $dbname     = "db_vbgr8_kantine";
-    $dbuser     = "Melissa";
-    $dbpass     = "Melissa01";//
+    $dbname     = "db_faq";
+    $dbuser     = "kantine";
+    $dbpass     = "kantine";//
     $conn       = "";          // connection string
     $pdo        = "";          // handler
     $charset = 'utf8mb4';
