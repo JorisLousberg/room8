@@ -1,19 +1,20 @@
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
+    <link rel="STYLESHEET" href="css/home.css" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
-    <script src="script.js"></script>
+    <script src="js/home.js"></script>
     <title>Home - Vista Kantine</title>
-    <link rel="icon" type="image/png" href="img/vistalogo.png">
+    <link rel="icon" type="image/png" href="images/vistalogo.png">
 </head>
 <body>
 
         <!-- Background Image  -->
-    <img id="bg" src="img/canteen.jpg">
+    <img id="bg" src="images/canteen.jpg">
         <!-- Vista Logo -->
-        <img id="vistaLogo" src="img/vistalogo.png">
+        <img id="vistaLogo" src="images/vistalogo.png">
 
     <div>
             <!-- Top Section / Navbar  -->
@@ -23,7 +24,7 @@
                     <a class="navbtn" href="">Menu</a>
                     <a class="navbtn" href="">Contact</a>
                     <a class="navbtn" href="">FAQ</a>
-                    <a id="NL-EN" href="home_en.php"><img id="NL-ENimg" src="img/ukflag.png"></a>
+                    <a id="NL-EN" href="home_en.php"><img id="NL-ENimg" src="images/ukflag.png"></a>
                     <div id="covid-text"> <!-- #covid-text = temporary id used in css -->
                         <h2>COVID-19</h2>
                         <p>
@@ -56,34 +57,25 @@
                 
                     <!-- 3 images  -->
                 <section id="main-img">
-                    <img src="img/main1.jpg">
-                    <img src="img/main2.png">
-                    <img src="img/main3.png">
+                    <img src="images/main1.jpg">
+                    <img src="images/main2.png">
+                    <img src="images/main3.png">
                 </section>
 
                     <!-- sticky note with copy function  -->
                 <div id="sticknote">
-                    <img id="sticknote-img" src="img/stickynote.png"> 
+                    <img id="sticknote-img" src="images/stickynote.png"> 
                         <!-- Image from https://fontmeme.com/sticky-notes/ -->
                     
                         <!-- change 'value' to change copy value -->
                     <input type="hidden" value="0612345678" id="copyText">
-                    <img id="copy-img" onclick="copyPhone()" src="img/copy.png">
+                    <img id="copy-img" onclick="copyPhone()" src="images/copy.png">
                 </div>
-
-                <!-- <div id="datetime">
-                    <span>
-                        <?php
-                            echo date("H:i");
-                        ?>
-                    </span>
-                </div> -->
             </div>
-        
             <!-- Footer -->
-    <footer>
-        <h2>--Footer--</h2>
-    </footer>
+        <footer>
+            <h2>--Footer--</h2>
+        </footer>
     </div>
 </body>
 </html>
