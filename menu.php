@@ -11,14 +11,14 @@
 </head>
 <body>
 <?php
-       if(!isset($_SESSION)) 
-       { 
-           session_start(); 
-       } 
+if (!isset($_SESSION))
+{
+    session_start();
+}
 
-       require_once('includes/connection.inc.php'); //connection
-       include('includes/select.inc.php')
-    ?>
+require_once ('includes/connection.inc.php'); //connection
+include ('includes/select.inc.php')
+?>
     <div class="top">
 
 <div class="top">
@@ -37,15 +37,15 @@
         <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main"><br>
             <div class="menuheader">Broodjes / Wraps</div><br>
-            <?php getmenu(1,1,$pdo);?><br>
+            <?php getmenu(1, 1, $pdo); ?><br>
             <div class="menuheader">Soep</div><br>
-            <?php getmenu(2,1,$pdo);?><br>
+            <?php getmenu(2, 1, $pdo); ?><br>
             <div class="menuheader">Snacks</div><br>
-            <?php getmenu(3,1,$pdo);?><br>
+            <?php getmenu(3, 1, $pdo); ?><br>
             <div class="menuheader">Snoep</div><br>
-            <?php getmenu(4,1,$pdo);?><br>
+            <?php getmenu(4, 1, $pdo); ?><br>
             <div class="menuheader">Drank</div><br>
-            <?php getmenu(5,1,$pdo);?><br>
+            <?php getmenu(5, 1, $pdo); ?><br>
         </div> 
         <div class="middle_right"><div class="border" draggable= 'true'>border1</div></div>
     </div>
