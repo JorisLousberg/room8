@@ -29,10 +29,10 @@
 
         <div class="middle_main"> 
             <div class="aboutus">
-                <p> Over ons</p>
-                <p>Als de kantine van het vista college zorgen wij voor 
-                        een gezonde maaltijd. We bereiden het voedsel dagelijks voor zodat het altijd vers is.
-                        Als u vragen heeft waarbij ondersteuning nodig is, gelieve ons via onderstaande gegevens te contacteren. <br />
+                <p> About Us</p>
+                <p>As the canteen of the vista college we take care of 
+                        a healthy meal. We prepare the food daily so that it is always fresh.
+                        If you have any questions that require support, please contact us using the details below. <br />
                 </p>
                 <div class="table 1">
                     <table class="tg">

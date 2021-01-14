@@ -27,12 +27,12 @@
         <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main">
                 <div class="instruction_txt3"><h1>Welcome to our FAQ!</h1> Here in our faq you can come across questions that have been asked more often. <br /> We hope that you will find your answers here.<br /></div>
-            <?php getqeust(1,1,$pdo);?>
-            <?php getqeust(2,1,$pdo);?>
-            <?php getqeust(3,1,$pdo);?>
-            <?php getqeust(4,1,$pdo);?>
-            <?php getqeust(5,1,$pdo);?>
-            <?php getqeust(6,1,$pdo);?>
+            <?php getqeust(1,2,$pdo);?>
+            <?php getqeust(2,2,$pdo);?>
+            <?php getqeust(3,2,$pdo);?>
+            <?php getqeust(4,2,$pdo);?>
+            <?php getqeust(5,2,$pdo);?>
+            <?php getqeust(6,2,$pdo);?>
         
         </div>
         <div class="middle_right"><div class="border" draggable= 'true'>border2</div></div>
