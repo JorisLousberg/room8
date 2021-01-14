@@ -23,7 +23,6 @@
                 <ul>
                     <a class="navbtn" href="menu_eng.php">Menu</a>
                     <a class="navbtn" href="contact_eng.php">Contact</a>
-                    <a class="navbtn" href="FAQ_eng.php">FAQ</a>
                     <a class="navbtn" href="FAQ_eng.php">FAQ</a><a id="admin-btn" href="admin.login.php"><img src="images/AD_LOG.png"></a>
                     <a id="NL-EN" href="index.php"><img id="NL-ENimg" src="images/nlflag.png"></a>
                     <div id="covid-text"> <!-- #covid-text = temporary id used in css -->
