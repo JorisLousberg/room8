@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="STYLESHEET" href="css/mainstyle.css" type="text/css">
     <link rel="STYLESHEET" href="css/admin.css" type="text/css">
-    <title>Admin login</title>
+    <title>Admin Login</title>
 </head>
 <body>
 <div class="top">

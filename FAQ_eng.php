@@ -26,7 +26,7 @@
     <div class="middle">
         <div class="middle_left"><div class="border" draggable= 'true'>border1</div></div>
         <div class="middle_main">
-                <div class="instruction_txt3"><h1>Welkom op onze FAQ!</h1> Hier in onze faq kunt u vragen tegenkomen die vaker gesteld zijn. <br /> We hopen dat u hier de antwoorden vindt die u zoekt.<br /></div>
+                <div class="instruction_txt3"><h1>Welcome to our FAQ!</h1> Here in our faq you can come across questions that have been asked more often. <br /> We hope that you will find your answers here.<br /></div>
             <?php getqeust(1,1,$pdo);?>
             <?php getqeust(2,1,$pdo);?>
             <?php getqeust(3,1,$pdo);?>

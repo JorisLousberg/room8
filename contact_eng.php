@@ -38,35 +38,35 @@
                     <table class="tg">
                         <thead>
                             <tr>
-                                <th class="tg-dk9t">Maandag</th>
-                                <th class="tg-dk9t">Dinsdag</th>
-                                <th class="tg-dk9t">Woensdag</th>
-                                <th class="tg-dk9t">Donderdag</th>
-                                <th class="tg-dk9t">Vrijdag</th>
-                                <th class="tg-dk9t">Zaterdag</th>
-                                <th class="tg-dk9t">Zondag</th>
+                                <th class="tg-dk9t">Monday</th>
+                                <th class="tg-dk9t">Tuesday</th>
+                                <th class="tg-dk9t">Wednesday</th>
+                                <th class="tg-dk9t">Thursday</th>
+                                <th class="tg-dk9t">Friday</th>
+                                <th class="tg-dk9t">Saturday</th>
+                                <th class="tg-dk9t">Sunday</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="tg-g967">10:00 -16:00</td>
-                                <td class="tg-g967">10:00 -16:00</td>
-                                <td class="tg-g967">10:00 -16:00</td>
-                                <td class="tg-g967">10:00 -16:00</td>
-                                <td class="tg-g967">10:00 -16:00</td>
-                                <td class="tg-g967">Gesloten</td>
-                                <td class="tg-g967">Gesloten</td>
+                                <td class="tg-g967">10:00am -4:00pm</td>
+                                <td class="tg-g967">10:00am -4:00pm</td>
+                                <td class="tg-g967">10:00am -4:00pm</td>
+                                <td class="tg-g967">10:00am -4:00pm</td>
+                                <td class="tg-g967">10:00am -4:00pm</td>
+                                <td class="tg-g967">Closed</td>
+                                <td class="tg-g967">Closed</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 <div>
-                    <p>Als u vragen heeft waarbij ondersteuning nodig is, gelieve ons via onderstaande gegevens te contacteren.</p>
+                    <p>If you have any questions that require support, please contact us at supported details.</p>
                 </div>
                 <address>
-                    E-mail naar: <a href="mailto:notrealemail@hotmail.com">info@vistacollege.nl</a><br>
-                    of bel ons via: +32-456-5557-20 <mark class="note">"random gegenereerde nummer"</mark> <br>
-                    Adres: <br>
+                    E-mail to: <a href="mailto:notrealemail@hotmail.com">info@vistacollege.nl</a><br>
+                    or call us via: +32-456-5557-20 <mark class="note">"Random generated number"</mark> <br>
+                    Adress: <br>
                     Sibemaweg 20 <br>
                     6224DC Maastricht <br>
                     Limburg, Nederland
